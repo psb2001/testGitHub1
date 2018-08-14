@@ -36,4 +36,7 @@ class MainActivity : AppCompatActivity() {
             else -> super.onOptionsItemSelected(item)
         }
     }
+    fun blah() {
+        var i = 1 + 1
+    }
 }
